@@ -1,5 +1,5 @@
 {
-  "id": "vegas.timeramp.optical",
+  "id": "com.hereliesaz.azphalt.optical-timeramp",
   "version": "1.0.0",
   "name": "Optical Flow Time Ramp",
   "description": "Smooth speed-ramping using Bezier easing to slow time precisely.",
