@@ -1,11 +1,13 @@
 {
+  "azphalt": "0.1",
   "id": "com.hereliesaz.azphalt.optical-timeramp",
-  "version": "1.0.0",
   "name": "Optical Flow Time Ramp",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
   "description": "Smooth speed-ramping using Bezier easing to slow time precisely.",
-  "files": {
-    "assets/preset.json": "sha256-placeholder"
-  },
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
